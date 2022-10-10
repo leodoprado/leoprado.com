@@ -1,11 +1,9 @@
-import * as C from "./AppStyle" 
+import Header from "./components/header/headerComponent" 
 
 function App() {
   return (
     <>
-    <C.ContainerHomePage>
-      <h1>Hello World!</h1>
-    </C.ContainerHomePage>
+    <Header/>
     </>
   )
 }
