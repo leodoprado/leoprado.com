@@ -19,7 +19,8 @@ export const ContainerHeader = styled.div`
         display: flex;
         align-items: center;
         font-weight: 500;
-        margin-left: 3rem;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
         transition-duration: 0.3s;
     }
 
