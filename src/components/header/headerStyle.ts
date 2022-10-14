@@ -2,18 +2,19 @@ import styled from "styled-components";
 
 export const ContainerHeader = styled.div`
     width: 100vw;
-    height: 60px;
+    height: 55px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Ubuntu', sans-serif;
-    box-shadow: 0px 0px 8px gray;
+    box-shadow: 0px 0px 4px gray;
 
     nav {
         display: flex;
     }
     
     a {
+        font-size: 15px;
         color: #fff;
         text-decoration: none;
         display: flex;

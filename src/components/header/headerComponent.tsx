@@ -5,11 +5,11 @@ function headerComponent() {
     return (
         <Header.ContainerHeader>
             <nav>
-                <a href="#">Introduction</a>
-                <a href="#">About me</a>
-                <a href="#">Education</a>
-                <a href="#">Skills</a>
-                <a href="#">Projects</a>
+                <a href="#">Introdução</a>
+                <a href="#">Sobre</a>
+                <a href="#">Educação</a>
+                <a href="#">Tecnologias</a>
+                <a href="#">Projetos</a>
             </nav>
         </Header.ContainerHeader>
     )

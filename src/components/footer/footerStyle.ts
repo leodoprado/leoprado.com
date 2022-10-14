@@ -13,15 +13,26 @@ export const ContainerFooter = styled.div`
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
 
+    nav {
+        display: flex;
+    }
+
     a {
         color: #fff;
         text-decoration: none;
         margin-left: 2rem;
         margin-right: 2rem;
         font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        svg {
+            margin-right: 0.5rem;
+        }
     }
 
-    a:hover {
+    a:hover, svg:hover{
         color: #8f9ba8;
     }
 `
