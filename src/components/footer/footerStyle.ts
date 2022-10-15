@@ -9,7 +9,7 @@ export const ContainerFooter = styled.div`
     color: #FFF;
     width: 100%;
     height: 30px;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.4rem;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
 
@@ -33,6 +33,6 @@ export const ContainerFooter = styled.div`
     }
 
     a:hover, svg:hover{
-        color: #8f9ba8;
+        color: #C0FBFF;
     }
 `

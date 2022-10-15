@@ -5,7 +5,7 @@ function headerComponent() {
     return (
         <Header.ContainerHeader>
             <nav>
-                <a href="#">Introdução</a>
+                <a href="#">Perfil</a>
                 <a href="#">Sobre</a>
                 <a href="#">Educação</a>
                 <a href="#">Tecnologias</a>
