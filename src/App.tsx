@@ -1,11 +1,11 @@
-import Header from "./components/header/headerComponent" 
-import Footer from "./components/footer/footerComponent"
+import Routes from "./config/routes"
+import GlobalStyles from './config/globalStyles'
 
 function App() {
   return (
     <>
-    <Header/>
-    <Footer/>
+      <GlobalStyles />
+      <Routes />
     </>
   )
 }
