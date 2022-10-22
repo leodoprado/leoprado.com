@@ -1,17 +1,22 @@
 import React from 'react'
-import Header from "../../components/header/headerComponent"
-import Footer from "../../components/footer/footerComponent"
-import * as Perfil from '../perfil/perfil'
+import { Container, ContainerConteudo } from './style'
+import Header from '../../components/header'
+import Footer from '../../components/footer'
 
-const perfilPage = () => {
+const index = () => {
   return (
     <>
         <Header />
-          <Perfil.ContainerPerfil>
-          </Perfil.ContainerPerfil>
+          <Container>
+            <ContainerConteudo>
+              <h1>Leonardo do Prado</h1>
+              <h4>Web Developer - JavaScript | TypeScript | React JS</h4>
+              <h5>‘Always looking for the next level’</h5>
+            </ContainerConteudo>
+          </Container>
         <Footer />
     </>
   )
 }
 
-export default perfilPage
+export default index

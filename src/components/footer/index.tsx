@@ -1,5 +1,5 @@
 import React from 'react'
-import * as Footer from "./footerStyle"
+import * as Footer from "./style"
 import { FaGithub, FaLinkedin, FaWhatsapp, FaTelegramPlane } from 'react-icons/fa';
 
 function footerComponent() {

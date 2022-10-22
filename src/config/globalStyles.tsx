@@ -6,6 +6,7 @@ const globalStyle = createGlobalStyle`
         padding: 0;
         box-shadow: 0;
         background: #575757;
+        font-family: 'Ubuntu', sans-serif;
     }
 `
 

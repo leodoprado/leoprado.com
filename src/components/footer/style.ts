@@ -11,7 +11,6 @@ export const ContainerFooter = styled.div`
     height: 30px;
     margin-bottom: 0.4rem;
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
 
     nav {
         display: flex;

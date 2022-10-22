@@ -6,8 +6,7 @@ export const ContainerHeader = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Ubuntu', sans-serif;
-    box-shadow: 0px 0px 5px #C0FBFF;
+    box-shadow: 0px 0px 500px #C0FBFF;
 
     nav {
         display: flex;
