@@ -6,7 +6,7 @@ export const ContainerHeader = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0px 0px 500px #C0FBFF;
+    border-bottom: 1px solid #C0FBFF;
 
     nav {
         display: flex;

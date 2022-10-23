@@ -10,7 +10,7 @@ const index = () => {
           <Container>
             <ContainerConteudo>
               <h1>Leonardo do Prado</h1>
-              <h4>Web Developer - JavaScript | TypeScript | React JS</h4>
+              <h4>Web Developer - JavaScript | TypeScript | React | Node JS</h4>
               <h5>‘Always looking for the next level’</h5>
             </ContainerConteudo>
           </Container>

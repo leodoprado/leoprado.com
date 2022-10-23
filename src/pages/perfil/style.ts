@@ -21,7 +21,7 @@ export const ContainerConteudo = styled.div`
 
     h4 {
         font-weight: 400;
-        font-size: 20px;
+        font-size: 18px;
         margin-bottom: 10px;
     }
 
