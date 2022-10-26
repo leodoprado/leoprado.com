@@ -9,6 +9,7 @@ function index() {
             <Header/>
                 <Container>
                     <Conteudo>
+                    <h2>Resumo pessoal</h2>
                     <h3>
                         Entusiasta da tecnologia, sempre instigado em aprender, buscar e compartilhar conhecimento e
                         informações do mundo da programação e afins, disposto a crescer profissionalmente e pessoalmente. Sem

@@ -22,4 +22,12 @@ export const Conteudo = styled.div`
     font-weight: 400;
     font-style: italic;
     text-align: justify;
+
+    h2 {
+        text-align: center;
+        font-weight: 500;
+        font-style: normal;
+        text-decoration: underline;
+        margin-bottom: 2rem;
+    }
 `
