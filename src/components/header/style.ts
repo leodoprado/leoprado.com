@@ -26,7 +26,7 @@ export const ContainerHeader = styled.div`
         transition-duration: 0.5s;
     }
 
-    a:hover {
+    a:hover{
         background: #606060;
         color: #C0FBFF;
     }

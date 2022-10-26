@@ -28,6 +28,6 @@ export const ContainerConteudo = styled.div`
     h5 {
         font-weight: 400;
         font-style: italic;
-        font-size: 18px;
+        font-size: 17px;
     }
 `
