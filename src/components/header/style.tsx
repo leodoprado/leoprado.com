@@ -27,7 +27,7 @@ export const ContainerHeader = styled.div`
     }
 
     a:hover{
-        background: #606060;
+        background: #272424;
         color: #C0FBFF;
     }
 `
